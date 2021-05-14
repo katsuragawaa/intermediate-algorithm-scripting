@@ -1,1 +1,1 @@
-# Intermediate Algorithm Scripting challenges with JavaScript
+# Intermediate algorithm scripting challenges with JavaScript
